@@ -10,7 +10,7 @@
     "postinstall": "prisma generate"
   },
   "dependencies": {
-    "@prisma/client": "^5.18.0",
+    "@prisma/client": "^5.19.0",
     "axios": "^1.7.5",
     "next": "14.2.6",
     "prisma": "^5.18.0",
